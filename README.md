@@ -83,7 +83,7 @@ uidai-decision-intelligence-system/
 │── LICENSE                   # License file
 │── requirements.txt          # Python dependencies
 │── uidai_colab.ipynb               # Main notebook (run this)
-│── report.pdf                # Final PDF report
+│── Report.pdf                # Final PDF report
 ```
 
 ---
