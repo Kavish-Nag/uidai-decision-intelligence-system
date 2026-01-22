@@ -131,8 +131,8 @@ Then open:
 ---
 
 ## 👥 Team  
-- **Kavish Nag**  
-- **Kunal Jhindal**  
+- [**Kavish Nag**](https://github.com/Kavish-Nag)  
+- [**Kunal Jhindal**](https://github.com/kjuhi-18)
 
 ---
 
